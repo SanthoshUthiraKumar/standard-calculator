@@ -158,8 +158,10 @@ for (item of buttons) {
 ```
 
 ## OUTPUT:
-![images](images/CalculatorOutput.png)
-![images](images/CalculatorValidator.png)
+![CalculatorOutput](https://user-images.githubusercontent.com/119477975/215325385-eade7674-42e6-4874-8f9c-9544ed5f3472.png)
+
+![CalculatorValidator](https://user-images.githubusercontent.com/119477975/215325387-0b7bd5cd-2a4f-442d-9cc3-810de1744626.png)
+
 
 ## Result:
 A web application for a standard calculator is executed successfully.
